@@ -1,1 +1,1 @@
-# simple-we-app
+# simple-web-app
